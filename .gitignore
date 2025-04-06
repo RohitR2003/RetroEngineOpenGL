@@ -1,0 +1,38 @@
+﻿# 🔧 Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 📁 Project build outputs
+Debug/
+Release/
+x64/
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+
+# 🧱 Executable and intermediate binaries
+*.exe
+*.dll
+*.lib
+*.exp
+
+# 🗂️ Project-specific temp files
+*.tmp
+*.bak
+
+# 🧰 Visual Studio C++ project files to ignore
+*.vcxproj.user
+
+# 🛠️ CMake (if used)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# 🔦 Shader cache (optional)
+*.cache
